@@ -1,0 +1,19 @@
+.div{
+  position: relative;
+}
+#patient-list{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+#new-patient{
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
